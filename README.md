@@ -6,4 +6,4 @@ npm install
 npm start
  2- cd backend
  npm install 
- npm start
+ npm run start
